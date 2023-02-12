@@ -63,9 +63,9 @@ body{
 }
 .cosmos_wh{
   background-image:url('img/kosmos.jpg');
-  background-size:600px no-repeat;
+  background-size:100% ;
   height: 800px;
-  min-width: 600px;
+  width: 100%;
 }
 .ears {
   width: 300px;
